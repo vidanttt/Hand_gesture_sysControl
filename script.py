@@ -22,6 +22,7 @@ hands = mp_hands.Hands(
     min_tracking_confidence=0.5
 )
 #testing
+#testing 2
 
 devices = AudioUtilities.GetSpeakers()
 interface = devices.Activate(IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
