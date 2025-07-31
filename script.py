@@ -23,6 +23,7 @@ hands = mp_hands.Hands(
 )
 #testing
 #testing 2
+#testing 3
 
 devices = AudioUtilities.GetSpeakers()
 interface = devices.Activate(IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
