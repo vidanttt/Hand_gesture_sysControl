@@ -1,4 +1,4 @@
-# JARVIS Hand Gesture System Control
+# MY Hand Gesture System Control
 
 A Python-based desktop application for controlling system volume and monitor brightness using hand gestures, inspired by sci-fi HUDs (Heads-Up Displays).
 
